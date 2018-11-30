@@ -5,6 +5,7 @@ sleep 2
 date=` date +%F `
 filename=$1
 extension=.` echo $filename |cut -f 2 -d '.' ` # use . as the delimiter, get second "collon"
+#this works only for filenames without any additional dots :/
 echo Date is $date
 echo Full filename is: $filename
 echo Extension is: $extension
