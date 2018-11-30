@@ -19,7 +19,7 @@ randomword=`head -$linepos $wordlist | tail -1`
 echo Random word \(word no. $linepos \)  is: $randomword !
 sleep 1
 echo K, bye now!
-if [ ./tempwords ]
+if [ -e ./tempwords ]
 then
    #echo these are tempwords
    #tail ./tempwords
