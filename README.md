@@ -5,3 +5,5 @@ Section 2: [Variables](https://ryanstutorials.net/bash-scripting-tutorial/bash-v
 Section 3: [Input](https://ryanstutorials.net/bash-scripting-tutorial/bash-input.php)
 
 Section 4: [Arithmetic](https://ryanstutorials.net/bash-scripting-tutorial/bash-arithmetic.php)
+
+Section 5: [If Statements](https://ryanstutorials.net/bash-scripting-tutorial/bash-if-statements.php)
